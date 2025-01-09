@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reverse Money Online</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .logo {
+            width: 100px;
+            margin: 0 auto;
+        }
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            color: #e74c3c;
+            margin: 10px 0;
+        }
+        .subtitle {
+            font-size: 16px;
+            margin-bottom: 20px;
+        }
+        .button {
+            background-color: #1877f2;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-size: 16px;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .button:hover {
+            background-color: #155dbd;
+        }
+        .footer {
+            font-size: 12px;
+            color: #888;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://www.google.com/search?q=cash+earn+money+logo&client=ms-android-xiaomi-terr1-rso2&..." alt="Logo" class="logo">
+        <div class="title">Reverse Money Online</div>
+        <div class="subtitle">Your Inviter name is: <strong>Arpita</strong></div>
+        <div class="subtitle">To complete the referral, you will need to connect to your Facebook account.</div>
+        <a href="http://xportbox.com/WZ/FC?nox=7025803439" class="button">Connect with Facebook</a>
+        <div class="footer">© Reverse Money Online</div>
+    </div>
+</body>
+</html>
